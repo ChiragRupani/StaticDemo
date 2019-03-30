@@ -1,12 +1,12 @@
 var CACHE_NAME = 'static_site_v2';
 var urlsToCache = [
-    '/StaticDemo',
-    '/favicon.ico',
-    '/css/site.css',
-    '/js/site.js',
-    '/lib/bootstrap/dist/css/bootstrap.min.css',
-    '/lib/jquery/dist/jquery.min.js',
-    '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
+    '/StaticDemo/',
+    '/StaticDemo/favicon.ico',
+    '/StaticDemo/css/site.css',
+    '/StaticDemo/js/site.js',
+    '/StaticDemo/lib/bootstrap/dist/css/bootstrap.min.css',
+    '/StaticDemo/lib/jquery/dist/jquery.min.js',
+    '/StaticDemo/lib/bootstrap/dist/js/bootstrap.bundle.min.js'
 ];
 
 var cacheWhitelist = [CACHE_NAME];
