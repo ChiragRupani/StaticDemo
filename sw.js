@@ -1,6 +1,6 @@
-﻿var CACHE_NAME = 'static_site_v2';
+var CACHE_NAME = 'static_site_v2';
 var urlsToCache = [
-    '/',
+    '/StaticDemo',
     '/favicon.ico',
     '/css/site.css',
     '/js/site.js',
